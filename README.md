@@ -12,7 +12,7 @@
 ---
 
 ## 🚀 About Me
-
+I'm a passionate learner and developer exploring programming, web development, and modern technologies.
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 - 🔭 I’m currently working with **React, Node, Express, MongoDB**
