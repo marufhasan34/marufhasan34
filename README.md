@@ -3,38 +3,33 @@
 </p>
 
 <h2 align="center">Hi 👋, I'm Maruf Hasan</h2>
-<h4 align="center">Front-end Web Developer</h4>
-
-<p align="center">
-  JavaScript | React | Node.js | Express | MongoDB | Tailwind
-</p>
+<h4 align="center">Welcome to my Github Profile</h4>
 
 ---
 
 ## 🚀 About Me
 I'm a passionate learner and developer exploring programming, web development, and modern technologies.
-<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-
-- 🔭 I’m currently working with **React, Node, Express, MongoDB**
-- 🌱 I’m learning **Next.js**
-- 💡 Exploring **AI & Modern Web Tech**
-- ⚡ Fun fact: I love building cool UI & website
 
 ---
+<br>
+<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
+- 🔭 I’m currently working with **React,React router DOM, MongoDB**
+- 🌱 I’m learning **Next.js**
+- 💡 Exploring **AI & Modern Web Tech**
+- ⚡ Fun fact: I love building cool UI & Modern website
+<br><br><br><br><br><br>
 ## 🛠️ Skills
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,tailwind,html,css,git,github" />
+<p align="center">
+ <p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,nextjs,vite,daisyui,reactrouter" />
+</p>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marufhasan34&show_icons=true&theme=tokyonight" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marufhasan34&theme=tokyonight" />
